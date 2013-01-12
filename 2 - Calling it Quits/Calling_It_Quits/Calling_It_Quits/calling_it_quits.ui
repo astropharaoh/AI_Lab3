@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>Calling_It_QuitsClass</class>
+ <widget class="QMainWindow" name="Calling_It_QuitsClass" >
+  <property name="objectName" >
+   <string notr="true">Calling_It_QuitsClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Calling_It_Quits</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="calling_it_quits.qrc"/>
+ </resources>
+ <connections/>
+</UI>
