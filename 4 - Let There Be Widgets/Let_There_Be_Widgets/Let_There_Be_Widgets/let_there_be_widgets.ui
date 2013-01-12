@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>Let_There_Be_WidgetsClass</class>
+ <widget class="QMainWindow" name="Let_There_Be_WidgetsClass" >
+  <property name="objectName" >
+   <string notr="true">Let_There_Be_WidgetsClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Let_There_Be_Widgets</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="let_there_be_widgets.qrc"/>
+ </resources>
+ <connections/>
+</UI>
