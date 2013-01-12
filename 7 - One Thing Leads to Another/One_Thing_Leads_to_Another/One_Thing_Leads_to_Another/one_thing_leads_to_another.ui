@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>One_Thing_Leads_to_AnotherClass</class>
+ <widget class="QMainWindow" name="One_Thing_Leads_to_AnotherClass" >
+  <property name="objectName" >
+   <string notr="true">One_Thing_Leads_to_AnotherClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>One_Thing_Leads_to_Another</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="one_thing_leads_to_another.qrc"/>
+ </resources>
+ <connections/>
+</UI>
