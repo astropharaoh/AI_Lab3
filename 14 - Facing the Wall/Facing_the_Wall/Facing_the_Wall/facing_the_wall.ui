@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>Facing_the_WallClass</class>
+ <widget class="QMainWindow" name="Facing_the_WallClass" >
+  <property name="objectName" >
+   <string notr="true">Facing_the_WallClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Facing_the_Wall</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="facing_the_wall.qrc"/>
+ </resources>
+ <connections/>
+</UI>
